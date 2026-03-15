@@ -86,8 +86,7 @@ git push origin feature/YourFeatureName
 联系方式
 如果您有任何问题或建议，请通过以下方式联系我们：
 
-项目主页：https://github.com/pingdior/wxtailup
 提交问题：GitHub Issues
-邮箱：example@example.com
+邮箱：woodgaya@gmail.com
 
 
